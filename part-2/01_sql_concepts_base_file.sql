@@ -24,10 +24,10 @@ VALUES
  'Wireless headphones with noise cancellation'),
 
 ('Mechanical Keyboard', 'Computer Accessories', 4599.00, 30, true, 'KB-MECH-001',
- 'Mechanical keyboard suitable for gaming and programming'),
+ NULL),
 
 ('Gaming Mouse', 'Computer Accessories', 1999.00, 45, true, 'MOUSE-G-001',
- 'High precision gaming mouse with programmable buttons'),
+ NULL),
 
 ('Laptop Backpack', 'Bags', 1599.00, 35, true, 'BAG-LAP-001',
  'Water resistant backpack designed for laptops'),
